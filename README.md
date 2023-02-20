@@ -24,7 +24,3 @@ Set Up :
 ```
 
 By default, it will show facebook's react repository's issues page.
-
-To view some other repositories issue page give query parameter's as owner & repo.
-
- ---> [https://git-issues.netlify.com/?owner=vuejs&repo=vue](https://git-issues.netlify.com/?owner=vuejs&repo=vue)
