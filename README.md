@@ -14,15 +14,13 @@ Packages Used to build this project :
 Set Up :
 
 ```
-1. git clone https://github.com/ankitious/github-issues-page.git
+1. yarn install 
 
-2. yarn install 
+2. yarn test
 
-3. yarn test
+3. yarn start
 
-4. yarn start
-
-5. go to http://localhost:3000
+4. go to http://localhost:3000
 ```
 
 By default, it will show facebook's react repository's issues page.
